@@ -11,10 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Heidelberg University, 2010-2013
+* M.S. in Physics, Heidelberg University, 2013-2016
 
+.... some more information coming soon
+<!-- 
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -26,7 +27,7 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+ 
 Skills
 ======
 * Skill 1
@@ -35,7 +36,8 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ --> 
+ 
 Publications
 ======
   <ul>{% for post in site.publications %}
